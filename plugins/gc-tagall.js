@@ -6,7 +6,7 @@ throw false
 let pesan = args.join` `
 let oi = `*ANOTATE CRIATURA DEL SEÑOR SINO CUPO:* ${pesan}`
 let teks = `¿ ‼️Deseas un bot para tu grupo‼️ COMUNICATE ↪️ ? Wa.me/56940831045
-*⺀🔱 TODAS MIENTEN 🔱⺀*\n\n🟩 ${oi}\n\n🟩 *𝙴𝚃𝙸𝚀𝚄𝙴𝚃𝙰𝚂:*\n`
+*⺀👻TODAS MIENTEN RECUERDEN ESO⺀*\n\n🟩 ${oi}\n\n🟩 *𝙴𝚃𝙸𝚀𝚄𝙴𝚃𝙰𝚂:*\n`
 for (let mem of participants) {
 teks += `┊🐲 @${mem.id.split('@')[0]}\n`}
 teks += `⚡𝐁𝐎𝐓 𝐀𝐃𝐀𝐍 𝐓𝐂`
